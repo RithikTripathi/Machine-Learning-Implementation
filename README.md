@@ -1,2 +1,20 @@
-# Machine-Learning-Implementation
-This repository contains separate implementation to each ML algorithms providing understanding about it's working. Will get updated with time.
+## Python : Machine Learning 
+
+## Features ( Updating Frequently... )
+
+- Cost Function Demonstration
+
+### Pdf is available to have a quick look into the code and respective results.
+
+## Authors
+
+- [@Rithik Tripathi](https://github.com/RithikTripathi)
+
+
+## 🚀 About Me
+I'm a passionate Full Stack Data Sciences Practitioner from India.
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at rithik.tripathi7@gmail.com
