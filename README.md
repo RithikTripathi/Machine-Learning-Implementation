@@ -3,6 +3,7 @@
 ## Features ( Updating Frequently... )
 
 - Cost Function Demonstration
+- Linear Regression: Implementation + Assumptions + Need of Regularisation 
 
 ### Pdf is available to have a quick look into the code and respective results.
 
