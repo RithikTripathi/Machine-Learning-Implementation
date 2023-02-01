@@ -4,6 +4,7 @@
 
 - Cost Function Demonstration
 - Linear Regression: Implementation + Assumptions + Need of Regularisation 
+- Gradient Descent Implementation
 
 ### Pdf is available to have a quick look into the code and respective results.
 
