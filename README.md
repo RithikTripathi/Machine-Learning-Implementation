@@ -6,6 +6,7 @@
 - Linear Regression: Implementation + Assumptions + Need of Regularisation 
 - Gradient Descent Implementation
 - Regularisation Techniques (Lasso (L1) & Ridge (L2))
+- Dimensionality Reduction (In progress...)
 
 ### Pdf is available to have a quick look into the code and respective results.
 
