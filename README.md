@@ -6,7 +6,9 @@
 - Linear Regression: Implementation + Assumptions + Need of Regularisation 
 - Gradient Descent Implementation
 - Regularisation Techniques (Lasso (L1) & Ridge (L2))
-- Dimensionality Reduction (In progress...)
+- Dimensionality Reduction Part 1 ( Missing Value Ratio, Low Variance Filter, High Correlation Filter )
+- Dimensionality Reduction Part 2 ( In Progress ...)
+
 
 ### Pdf is available to have a quick look into the code and respective results.
 
