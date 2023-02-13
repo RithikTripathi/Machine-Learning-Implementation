@@ -4,6 +4,7 @@
 
 - Cost Function Demonstration
 - Linear Regression: Implementation + Assumptions + Need of Regularisation 
+- Logistic Regression: Implementation + Concept of Thresholds (Hard Tags + Soft Tags)
 - Gradient Descent Implementation
 - Regularisation Techniques (Lasso (L1) & Ridge (L2))
 - Dimensionality Reduction Part 1 ( Missing Value Ratio, Low Variance Filter, High Correlation Filter )
