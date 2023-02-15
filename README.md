@@ -8,7 +8,7 @@
 - Gradient Descent Implementation
 - Regularisation Techniques (Lasso (L1) & Ridge (L2))
 - Dimensionality Reduction Part 1 ( Missing Value Ratio, Low Variance Filter, High Correlation Filter )
-- Dimensionality Reduction Part 2 ( In Progress ...)
+- Dimensionality Reduction Part 2 ( Backward Feature Elimination , Forward Feature Selection )
 
 
 ### Pdf is available to have a quick look into the code and respective results.
